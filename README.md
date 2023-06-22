@@ -5,7 +5,7 @@ Este repositório foi criado para o armazenamento e versionamento de um projeto 
 ## Tecnologias
 
 - [![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)](https://github.com/topics/java)
-- [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)](https://github.com/spring-projects/spring-boot)
+- [![Spring Boot](https://img.shields.io/badge/-Springboot-brightgreen?logo=spring&logoColor=white)](https://github.com/spring-projects/spring-boot)
 - [![Insomnia](https://img.shields.io/badge/-Insomnia-purple?logo=insomnia&logoColor=white)](https://github.com/Kong/insomnia)
 
 ## Como rodar
